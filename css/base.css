@@ -806,8 +806,8 @@ textarea {
 
 @media screen and (max-width: 500px) {
   .col-five-tab-full-footer-about-i{
-    width: 90px;
-    height: 200px;
+    width: 3000px;
+    height: 500px;
     margin-right: -100px;
   }
 }

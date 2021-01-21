@@ -1875,7 +1875,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     max-width: 380px;
   }
   #about .lead {
-    font-size: 1.3rem;
+    font-size: 2.3rem;
   }
 }
 
@@ -2999,3 +2999,4 @@ footer h4.h05::after {
     margin-left: -100px;
   }
 }
+

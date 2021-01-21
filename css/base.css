@@ -799,7 +799,7 @@ textarea {
   font-family: 600;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .col-five-tab-full-footer-about-i{
     width: 90px;
     height: 200px;

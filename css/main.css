@@ -39,7 +39,7 @@
  *  02. base style overrides - (_document-setup)
  *
  * ------------------------------------------------------------------- */
-html {
+ html {
   font-size: 10px;
 }
 @media only screen and (max-width: 1024px) {
@@ -2954,6 +2954,12 @@ footer h4.h05::after {
   background: #000000;
   color: #FFFFFF;
 }
+.big-text{
+  font-size: 40px;
+}
+.small-text{
+  font-size: 20px;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -2984,6 +2990,12 @@ footer h4.h05::after {
     left: 50%;
     margin-left: -50px;
   }
+  .small-text{
+    font-size: 15px;
+  }
+  .big-text{
+    font-size: 25px;
+  }
 }
 @media only screen and (max-width: 600px) {
   .footer-bottom {
@@ -2998,5 +3010,12 @@ footer h4.h05::after {
   .col-five-tab-full-footer-about-i{
     margin-left: -100px;
   }
+  .small-text{
+    font-size: 10px;
+  }
+  .big-text{
+    font-size: 15px;
+  }
+
 }
 

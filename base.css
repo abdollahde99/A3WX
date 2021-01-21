@@ -693,6 +693,7 @@ textarea {
     margin-left: 0;
     margin-right: 0;
   }
+  
 }
 /* ===================================================================
  *  04. MISC  - (_grid.scss)
@@ -797,3 +798,12 @@ textarea {
   font-size: 16px;
   font-family: 600;
 }
+
+@media screen and (max-width: 600px) {
+  .col-five-tab-full-footer-about-i{
+    width: 90px;
+    height: 200px;
+    margin-right: -100px;
+  }
+}
+

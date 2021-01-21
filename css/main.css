@@ -39,7 +39,7 @@
  *  02. base style overrides - (_document-setup)
  *
  * ------------------------------------------------------------------- */
- html {
+html {
   font-size: 10px;
 }
 @media only screen and (max-width: 1024px) {
@@ -3014,7 +3014,7 @@ footer h4.h05::after {
     font-size: 10px;
   }
   .big-text{
-    font-size: 199px;
+    font-size: 15px;
   }
 
 }

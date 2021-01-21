@@ -693,6 +693,11 @@ textarea {
     margin-left: 0;
     margin-right: 0;
   }
+  .col-five-tab-full-footer-about-i{
+    width: 90px;
+    height: 200px;
+    margin-right: -150px;
+  }
   
 }
 /* ===================================================================

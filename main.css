@@ -2954,6 +2954,12 @@ footer h4.h05::after {
   background: #000000;
   color: #FFFFFF;
 }
+.big-text{
+  font-size: 40px;
+}
+.small-text{
+  font-size: 20px;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -2984,8 +2990,14 @@ footer h4.h05::after {
     left: 50%;
     margin-left: -50px;
   }
+  .small-text{
+    font-size: 15px;
+  }
+  .big-text{
+    font-size: 25px;
+  }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
   .footer-bottom {
     padding-bottom: .6rem;
   }
@@ -2996,7 +3008,29 @@ footer h4.h05::after {
     display: none;
   }
   .col-five-tab-full-footer-about-i{
-    margin-left: -100px;
+    margin-right: 0;
+    width: 90px;
+    height: 200px;
+  }
+  .small-text{
+    font-size: 18px;
+  }
+  .big-text{
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .col-five-tab-full-footer-about-i{
+width: 100;
+height: 200px;
+margin-left: 0;
+  }
+  .small-text{
+    font-size: 18px;
+  }
+  .big-text{
+    font-size: 20px;
   }
 }
 

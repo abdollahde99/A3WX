@@ -3013,12 +3013,11 @@ footer h4.h05::after {
     height: 200px;
   }
   .small-text{
-    font-size: 10px;
+    font-size: 28px;
   }
   .big-text{
-    font-size: 15px;
+    font-size: 20px;
   }
-
 }
 
 @media screen and (max-width: 600px) {
@@ -3027,5 +3026,12 @@ width: 100;
 height: 200px;
 margin-left: 0;
   }
+  .small-text{
+    font-size: 28px;
+  }
+  .big-text{
+    font-size: 20px;
+  }
+
 }
 

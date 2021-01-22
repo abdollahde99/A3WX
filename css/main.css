@@ -3007,9 +3007,9 @@ footer h4.h05::after {
   .footer-bottom .copyright span::after {
     display: none;
   }
-  .col-five-tab-full-footer-about-i{
+  /*.col-five-tab-full-footer-about-i{
     margin-left: -100px;
-  }
+  }*/
   .small-text{
     font-size: 10px;
   }

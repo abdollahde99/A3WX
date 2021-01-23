@@ -3013,10 +3013,13 @@ footer h4.h05::after {
     height: 200px;
   }
   .small-text{
-    font-size: 18px;
+    font-size: 28px;
   }
   .big-text{
     font-size: 20px;
+  }
+  .col-twelve  h1.animate-intro1{
+    font-size: 18px;
   }
 }
 
@@ -3027,10 +3030,20 @@ height: 200px;
 margin-left: 0;
   }
   .small-text{
-    font-size: 18px;
+    font-size: 28px;
   }
   .big-text{
     font-size: 20px;
   }
+  .col-twelve  h1.animate-intro1{
+    font-size: 16px;
+  }
 }
+.col-twelve .animate-intro1{
+  font-size: 36px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 

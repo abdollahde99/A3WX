@@ -3018,6 +3018,9 @@ footer h4.h05::after {
   .big-text{
     font-size: 20px;
   }
+  .col-twelve  h1.animate-intro1{
+    font-size: 18px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -3032,6 +3035,15 @@ margin-left: 0;
   .big-text{
     font-size: 20px;
   }
-
+  .col-twelve  h1.animate-intro1{
+    font-size: 18px;
+  }
 }
+.col-twelve .animate-intro1{
+  font-size: 36px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 
